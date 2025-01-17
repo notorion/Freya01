@@ -1,0 +1,43 @@
+ .../dist/game/data/stats/npcs/26500-26599.xml                     | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/L2J_Mobius_11.3_Shinemaker/dist/game/data/stats/npcs/26500-26599.xml b/L2J_Mobius_11.3_Shinemaker/dist/game/data/stats/npcs/26500-26599.xml
+index f92efb6ce8..f9b2c51a68 100644
+--- a/L2J_Mobius_11.3_Shinemaker/dist/game/data/stats/npcs/26500-26599.xml
++++ b/L2J_Mobius_11.3_Shinemaker/dist/game/data/stats/npcs/26500-26599.xml
+@@ -609,7 +609,7 @@
+ 				<defence fire="1850" water="1900" wind="1900" earth="1900" holy="1900" dark="1900" />
+ 			</attribute>
+ 		</stats>
+-		<status attackable="true" />
++		<status attackable="false" undying="true" canMove="false" targetable="false" />
+ 		<collision>
+ 			<radius normal="32" />
+ 			<height normal="44" />
+@@ -640,7 +640,7 @@
+ 				<defence fire="1850" water="1900" wind="1900" earth="1900" holy="1900" dark="1900" />
+ 			</attribute>
+ 		</stats>
+-		<status attackable="true" />
++		<status attackable="false" undying="true" canMove="false" targetable="false" />
+ 		<collision>
+ 			<radius normal="24" />
+ 			<height normal="51" />
+@@ -671,7 +671,7 @@
+ 				<defence fire="1850" water="1900" wind="1900" earth="1900" holy="1900" dark="1900" />
+ 			</attribute>
+ 		</stats>
+-		<status attackable="true" />
++		<status attackable="false" undying="true" canMove="false" targetable="false" />
+ 		<collision>
+ 			<radius normal="32" />
+ 			<height normal="44" />
+@@ -702,7 +702,7 @@
+ 				<defence fire="1850" water="1900" wind="1900" earth="1900" holy="1900" dark="1900" />
+ 			</attribute>
+ 		</stats>
+-		<status attackable="true" />
++		<status attackable="false" undying="true" canMove="false" targetable="false" />
+ 		<collision>
+ 			<radius normal="24" />
+ 			<height normal="51" />
